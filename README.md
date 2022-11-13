@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning- **React.js**
 
-- 👨‍💻 Portfolio: [https://sanketmense.netlify.app/](https://sanketmense.netlify.app/)
+- 👨‍💻 Portfolio: [https://sanket-mense.vercel.app/](Portfolio)
 
 - 📫 How to reach me: **sanketmense106@gmail.com**
 
