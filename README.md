@@ -2,8 +2,8 @@
 
 ## 🛠️ **About Me**
 - **Software Engineer** with a passion for crafting efficient and scalable solutions.
-- Currently working at **ZS Associates** (2022-2024)
-- Previously interned at **Cognizant**, gaining hands-on experience with Java, Python, and web frameworks like Django and React.
+- Currently working at **ZS Associates**, gaining hands-on experience with Java, Python, and frameworks like Selenium, Appium,etc.
+- Previously interned at **Cognizant**, strengthened technical proficiency in Spring Boot, Django and Reactjs.
 
 ---
 
